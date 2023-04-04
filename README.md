@@ -1,1 +1,1 @@
-[Visit Weeather App](https://weather-app-react-site.netlify.app/)
+[Visit Weather App](https://weather-app-react-site.netlify.app/)
